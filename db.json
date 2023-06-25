@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Mr. Cute",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Mx. Monkey",
+      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "votes": 2
+    },
+    {
+      "id": 3,
+      "name": "Ms. Zebra",
+      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
+      "votes": 0
+    },
+    {
+      "id": 4,
+      "name": "Dr. Lion",
+      "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
+      "votes": 0
+    },
+    {
+      "id": 5,
+      "name": "Mme. Panda",
+      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
+      "votes": 0
+    },
+    {
+      "name": "Alphin",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTmuWlduGPvv7ra2th-fBvGjXls5bOWRWSqQ&usqp=CAU",
+      "votes": 0,
+      "id": 6
+    },
+    {
+      "name": "Penguina",
+      "image": "https://cdn.britannica.com/77/81277-050-2A6A35B2/Adelie-penguin.jpg",
+      "votes": 0,
+      "id": 7
+    },
+    {
+      "name": "MR. ZOLUCARD",
+      "image": "https://static.vecteezy.com/system/resources/previews/002/410/747/original/cute-siamese-cat-on-yellow-background-free-photo.jpg",
+      "votes": 0,
+      "id": 8
+    },
+    {
+      "name": "ZULON",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMX_FAkbmLVsMHaxQ3kv5Qhnu8EdkzgxEJ-mnaNpkXIzqGJOYeBQuiNztw_U6NesY0Kn4&usqp=CAU",
+      "votes": 0,
+      "id": 9
+    },
+    {
+      "name": "Team Dog",
+      "image": "https://us.123rf.com/450wm/pixander/pixander2305/pixander230550774/205106542-group-of-dogs-on-a-dark-background-digital-painting-vector-illustration.jpg?ver=6",
+      "votes": 0,
+      "id": 10
+    }
+  ]
+}
